@@ -1,4 +1,4 @@
-name = "excalidraw-worker"
+name = "excalidraw-backend"
 main = "index.js"
 compatibility_date = "2023-08-01"
 
